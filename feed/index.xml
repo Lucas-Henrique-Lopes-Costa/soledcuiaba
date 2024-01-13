@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Tudo em iluminação para sua casa ou empresa. Líder no setor de publicidade em Painéis de LED em Cuiabá.</description>
-	<lastBuildDate>Fri, 08 Dec 2023 04:03:36 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jan 2024 12:59:38 +0000</lastBuildDate>
 	<language>pt-PT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,5 +27,13 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+        <wp_options>
+            <wp_option>
+                <name>
+                    shopengine_activated_templates                </name>
+                <val>
+                    a:2:{s:6:&quot;single&quot;;a:1:{s:4:&quot;lang&quot;;a:1:{s:2:&quot;en&quot;;a:1:{i:0;a:3:{s:11:&quot;template_id&quot;;i:340;s:6:&quot;status&quot;;b:1;s:11:&quot;category_id&quot;;i:0;}}}}s:4:&quot;cart&quot;;a:1:{s:4:&quot;lang&quot;;a:1:{s:2:&quot;en&quot;;a:1:{i:0;a:3:{s:11:&quot;template_id&quot;;i:351;s:6:&quot;status&quot;;b:1;s:11:&quot;category_id&quot;;i:0;}}}}}                </val>
+            </wp_option>
+        </wp_options>
+        </channel>
 </rss>
